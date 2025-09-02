@@ -81,5 +81,3 @@ Got questions or feedback? Feel free to reach out to:
 Happy coding, and enjoy building powerful neural networks! 💻✨
 
 ---
-
-This version uses a more casual, friendly tone with emojis to make it more visually appealing and fun to read. It should attract attention and make the repository more engaging!
