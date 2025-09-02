@@ -33,3 +33,21 @@ To run these notebooks, follow these simple steps:
 
 ---
 
+## 🚀 **Key Features**
+
+* **Hands-on Learning**: Learn by doing! Run and experiment with each code snippet.
+* **Practical Examples**: Real-world code that you can build upon for your own projects.
+* **Visualizations**: Clear plots and graphs to help you understand how your models work.
+
+---
+
+## 🧑‍💻 **Prerequisites**
+
+To get the most out of this repository, you'll need the following:
+
+* **Python 3.x**
+* **TensorFlow** and **Keras** for deep learning
+* **NumPy** and **Matplotlib** for numerical operations and plotting
+
+---
+
