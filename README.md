@@ -15,3 +15,21 @@ Welcome to the **CNN and ANN Practice Code** repository! 🎉 This repository is
 
 ---
 
+## 🛠 **Getting Started**
+
+To run these notebooks, follow these simple steps:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/muhammadnouman911/CNN-And-ANN-Practice-Code.git
+   ```
+
+2. **Open the notebooks in** [**Google Colab**](https://colab.research.google.com/) or any local **Jupyter Notebook** environment.
+
+3. **Run the cells** and watch your models come to life! 💥
+
+> **Tip**: Using Google Colab allows you to skip the local setup and get started instantly! 🔥
+
+---
+
