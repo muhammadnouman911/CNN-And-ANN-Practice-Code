@@ -51,3 +51,20 @@ To get the most out of this repository, you'll need the following:
 
 ---
 
+## 🌱 **Contributing**
+
+We welcome contributions to this project! If you find any bugs, have suggestions, or want to add more content, feel free to:
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Open a pull request
+
+---
+
+## 📜 **License**
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
