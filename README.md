@@ -74,7 +74,7 @@ Got questions or feedback? Feel free to reach out to:
 
 * **Muhammad Nouman**
 * **GitHub**: [muhammadnouman911](https://github.com/muhammadnouman911)
-* **Email**: \[[YourEmailHere@example.com](mailto:YourEmailHere@example.com)]
+* **Email**: \[[muhammadnoumanf22@gmail.com](mailto:YourEmailHere@example.com)]
 
 ---
 
