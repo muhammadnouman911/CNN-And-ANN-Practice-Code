@@ -68,3 +68,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 📞 **Contact**
+
+Got questions or feedback? Feel free to reach out to:
+
+* **Muhammad Nouman**
+* **GitHub**: [muhammadnouman911](https://github.com/muhammadnouman911)
+* **Email**: \[[YourEmailHere@example.com](mailto:YourEmailHere@example.com)]
+
+---
+
+Happy coding, and enjoy building powerful neural networks! 💻✨
+
+---
+
+This version uses a more casual, friendly tone with emojis to make it more visually appealing and fun to read. It should attract attention and make the repository more engaging!
